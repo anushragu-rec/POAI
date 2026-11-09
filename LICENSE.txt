@@ -1,0 +1,1 @@
+Educational use. Experiment topics are based on the AI23231 lab manual supplied in this conversation. Review and understand each program before submitting it.
